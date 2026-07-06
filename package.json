@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js",
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulraheemqureshi321/pipeline.git"
+    "url": "https://github.com/abdulraheemqureshi321/pipeline2.git"
   },
   "keywords": [],
   "author": "",
